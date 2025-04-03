@@ -63,10 +63,10 @@ Software Requirements Specification
 Technical Design Document
 
 🤝 Contributing
-See CONTRIBUTING.md for development guidelines and code of conduct.
+Any contributions are welcome feel free to inbox.
 
 📧 Contact
 Project Maintainer: Branice Kazira
 Email: branicekazira@gmail.com
 
-<div align="center"> <sub>Created with ❤️ for inclusive communication | © 2025 Sign-it</sub> </div> ```
+Created with ❤️ for inclusive communication | © 2025 Sign-it ```
